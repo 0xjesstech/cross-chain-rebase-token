@@ -24,6 +24,15 @@ Foundry consists of:
 
 https://book.getfoundry.sh/
 
+## Prerequisites
+
+Create an .env file and add the following with your RPC URLs.
+
+```
+SEPOLIA_RPC_URL=https://eth-sepolia.g.alchemy.com/v2/<YOUR_RPC_URL>
+ARB_SEPOLIA_RPC_URL=https://arb-sepolia.g.alchemy.com/v2/<YOUR_RPC_URL>
+```
+
 ## Usage
 
 ### Build
